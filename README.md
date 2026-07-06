@@ -1,2 +1,27 @@
-# cpp-algorithms
-A collection of classic algorithms and problem-solving exercises implemented in C++.   Focused on learning fundamental algorithms, sorting, searching, recursion, and improving problem-solving skills.
+# C++ Algorithms
+
+👋 My journey of learning Data Structures and Algorithms in C++.
+
+**Goal:** Strengthen problem-solving skills and understand classic algorithms.
+
+**Level:** Beginner to Intermediate
+
+---
+
+## 📚 Topics Covered
+
+- Sorting Algorithms
+- Searching Algorithms
+- Recursion
+- Time & Space Complexity
+- Basic Problem Solving
+
+---
+
+## 🚀 How to Run
+
+Open any file in VS Code and press `Ctrl + Alt + N`
+
+---
+
+**Work in Progress** — More algorithms will be added over time.
