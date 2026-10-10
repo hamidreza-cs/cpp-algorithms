@@ -21,8 +21,7 @@ int main()
     int average = sum / a;
     
 
-
-
     cout << "average : " << average << endl << "sum : " << sum;
+    
     return 0;
 }
